@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625101369 source:c:\users\mixa\desktop\Лабы прога\task 7\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Task 7.h"
+
+1625104886 source:c:\users\mixa\desktop\Лабы прога\task 7\task 7.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Task 7.h"
+
+1625101246 c:\users\mixa\desktop\Лабы прога\task 7\task 7.h
+
